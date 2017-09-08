@@ -8,7 +8,7 @@
 
 ### 생성된 프로젝트 실행 해보기
 #### npm start
-![Alt text](/img/create_react_app npm start.png)
+![Alt text](./img/create_react_app npm start.png)
 
 ### Redux 설치
 #### npm install --save redux
